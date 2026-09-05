@@ -5,4 +5,5 @@ A personal journaling web app built with Django. Create, view, edit, and manage 
 # Features
 - Create and manage diary entries
 - Timestamps
-- Admin interface 
+- Admin interface
+- Login Authentication
